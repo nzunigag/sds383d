@@ -30,6 +30,6 @@ Here are the links to everyone's github repos for peer review purposes -- please
 
 [Meng Zhang](https://github.com/zmcmcc)
 
-[Natalia Zuniga Garcia](https://github.com/nzunigag)
+[Natalia Zuniga Garcia](https://github.com/nzunigag/SDS-383D-Statistical-Modeling-II)
 
 
